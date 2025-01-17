@@ -1,0 +1,8 @@
+1. Open Browser
+2. Open URL (NopCommerce)
+3. Provide Email
+4. Provide password
+5. Click on Login
+6. Capture title of the dashboard page. (actual title)
+7. Verify title of the page: "Dashboard"/nopCommerce administration
+8. close browser
